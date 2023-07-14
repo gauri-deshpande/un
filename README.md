@@ -1,4 +1,4 @@
-UNEMPLOYMENT ANALYSIS WI
+UNEMPLOYMENT ANALYSIS WITH PYTHON
 The data science project focuses on analyzing the unemployment rate during the Covid-19 pandemic. By studying the percentage of unemployed individuals in the total labor force, the project aims to understand the impact of the crisis on employment trends and patterns.
 Through this analysis, data scientists can identify the sectors and demographic groups that experienced the most significant increases in unemployment, providing valuable insights into the socio-economic consequences of the pandemic.
 By examining correlations between the unemployment rate and various economic indicators, the project can provide policymakers and stakeholders with actionable information to develop targeted interventions and policies to mitigate the challenges posed by rising unemployment.
